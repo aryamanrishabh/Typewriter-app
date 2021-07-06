@@ -131,7 +131,7 @@ const App = () => {
           </div>
         </div>
         <Errors errors={errors} />
-        {/* <div id={finished || counter === 0 ? "display-block" : "display-none"}>
+        <div id={finished || counter === 0 ? "display-block" : "display-none"}>
           <Result
             symbols={symbols}
             sec={sec}
@@ -141,7 +141,7 @@ const App = () => {
           />
         </div>
         {/* <Result symbols={symbols} sec={sec} errors={errors} /> */}
-      </div> 
+      </div>
     </div>
   );
 };

@@ -24,11 +24,8 @@
   transform: translate(-50%, -50%);
   padding: 50px 20px 50px 80px;
 }
-#cancel {
-  background-color: white;
-  color: black;
-  border-color: transparent;
-  font-size: 15px;
+.modal-main span {
+  display: block;
 }
 #cross {
   float: right;
@@ -39,4 +36,5 @@
   font-weight: 200;
   position: relative;
   top: -30px;
+  cursor: pointer;
 }
