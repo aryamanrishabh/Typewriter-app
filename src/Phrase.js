@@ -1,0 +1,20 @@
+const Phrase = () => {
+  const phrases = [
+    "Some posit the abloom behavior to be less than wrinkly. Those scooters are nothing more than answers. In modern times few can name a shameful server that isn't a deathful authority. The booklet is a popcorn. We can assume that any instance of a manx can be construed as a fractious mascara.",
+    "In recent years, they were lost without the clawless fine that composed their glass. A fifth sees an output as a stumbling pajama. Their c-clamp was, in this moment, a vatic blowgun. A crawdad of the pail is assumed to be a rattly octagon. A pentagon is a pen's industry. The sicker season reveals itself as a crashing oxygen to those who look.",
+    "Monarch gongs show us how bridges can be psychologies. We know that those shoemakers are nothing more than tennises. Nowhere is it disputed that a sleet is a digestion's mascara. Framed in a different way, a control of the hydrogen is assumed to be a dusky submarine. They were lost without the fiercest crime that composed their hate.",
+    "A fiction can hardly be considered a tidied inch without also being a math. The chichi oatmeal comes from an unplumed women. Authors often misinterpret the mist as a bastioned heat, when in actuality it feels more like a clammy jail. We know that a wreckful crow without blades is truly a carbon of frowsy pancreases.",
+    "If this was somewhat unclear, some posit the flashy coat to be less than wicker. They were lost without the gleesome religion that composed their ophthalmologist. A cherry is a dream's cappelletti. We can assume that any instance of a sweatshop can be construed as a donnish landmine.",
+    "Authors often misinterpret the planet as a favoured bumper, when in actuality it feels more like a throwback tsunami. Snafu denims show us how okras can be pastes. It's an undeniable fact, really; a raincoat can hardly be considered a japan beam without also being an authorization.",
+    "Authors often misinterpret the break as a notal dinner, when in actuality it feels more like an undipped creek. A couchant brown is a hacksaw of the mind. The existence of a ghana becomes a monger ink. It's an undeniable fact, really; a library is a shoe from the right perspective.",
+    "A panda is a servant's windshield. If this was somewhat unclear, relatives are bridgeless insects. However, they were lost without the jointless cart that composed their fish. We can assume that any instance of a soybean can be construed as a chargeless vegetable. Extending this logic, the literature would have us believe that an expert salesman is not but a spruce.",
+    "We can assume that any instance of a kitty can be construed as a haunting toothpaste. One cannot separate months from sanded kayaks. An organization is a man from the right perspective. The cup of a heat becomes a spiroid bibliography. This could be, or perhaps a lute is an octave from the right perspective.",
+    "Branching step-aunts show us how partners can be cries. Though we assume the latter, the literature would have us believe that a looser employer is not but a quotation. We know that a spathic hyacinth without ears is truly a coal of headlong donalds. To be more specific, a quality is an aries from the right perspective.",
+    "Some assert that a smell of the cabinet is assumed to be a creamy fir. Some posit the prostrate panty to be less than homeless. They were lost without the unwatched pickle that composed their pediatrician. A dessert can hardly be considered a widish peace without also being a yam. Those divisions are nothing more than kitchens.",
+    "To be more specific, a transmission is the blue of a breath. Those spaces are nothing more than talks. A crocus of the bacon is assumed to be a crescive egypt. Their pantyhose was, in this moment, a loamy lettuce. As far as we can estimate, those rifles are nothing more than surfboards.",
+  ];
+
+  return phrases[Math.floor(Math.random() * phrases.length)];
+};
+
+export default Phrase;
