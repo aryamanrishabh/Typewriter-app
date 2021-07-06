@@ -141,7 +141,7 @@ const App = () => {
           />
         </div>
         {/* <Result symbols={symbols} sec={sec} errors={errors} /> */}
-      </div> */}
+      </div> 
     </div>
   );
 };
